@@ -7,8 +7,7 @@ This is the default starting grunt stack for a front-end project at Reingold. It
 ## How do I get set up? ##
 
 Clone the repo and run
-```
-#!javascript
+```javascript
 
 npm install && bower install
 
@@ -17,7 +16,7 @@ npm install && bower install
 To run the local server use
 
 ```
-#!javascript
+```javascript
 
 grunt serve
 
@@ -26,7 +25,7 @@ grunt serve
 To run the build process and output to dist
 
 ```
-#!javascript
+```javascript
 
 grunt build
 
@@ -66,11 +65,3 @@ grunt build
 ## How do I add plugins? ##
 
 Install Bower packages with 'bower install --save package-name'. Using the '--save' flag will add the package into your project's bower.json dependencies.
-
-## Contribution guidelines ##
-
-If you have changes, please make a branch and submit a merge request.
-
-## Who do I talk to? ##
-
-[Email Nahmias, he is great](mailto:mnahmias@reingold.com)
