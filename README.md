@@ -15,7 +15,6 @@ npm install && bower install
 
 To run the local server use
 
-```
 ```javascript
 
 grunt serve
@@ -24,7 +23,6 @@ grunt serve
 
 To run the build process and output to dist
 
-```
 ```javascript
 
 grunt build
